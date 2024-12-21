@@ -25,6 +25,7 @@ This GitHub is where I experiment, learn, and build.
 - Developing Monad-compatible tools for dApp developers.
 - Exploring serverless architecture in Web3 ecosystems.
 - Contributing to open-source projects in the Monad developer community.
+- Member of Monad Devs- Cohort #2 EVM Course.
 
 ---
 
