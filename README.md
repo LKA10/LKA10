@@ -1,6 +1,6 @@
 👋 Hi, I’m @LKA
 # Welcome to My GitHub 👋
-I’m exploring cutting-edge blockchain, AI, Monad, and Web3 technologies.  
+I’m exploring cutting-edge blockchain, AI, Monad and Web3 technologies.  
 This GitHub is where I experiment, learn, and build.  
 
 ---
